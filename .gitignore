@@ -10,7 +10,7 @@ _test
 # Node Modules
 node_modules
 
-# Letsencrypt files
+# Letsencrypt files 
 fullchain.pem
 privkey.pem
 
