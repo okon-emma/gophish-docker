@@ -23,7 +23,7 @@ apt install certbot
 I have edited the config.json and other files to make it easier for you to get started.
 
 ```sh
-git clone https://github.com/gophish/gophish.git /opt/gophish
+git https://github.com/okon-emma/gophish-docker.git /opt/gophish
 cd /opt/gophish
 ```
 
