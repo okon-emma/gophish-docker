@@ -13,9 +13,9 @@ Install the following dependencies needed for your environment
 ```sh
 sudo su
 apt update
-apt install docker.io
-apt install golang-go
-apt install certbot
+apt install docker.io -y
+apt install golang-go -y
+apt install certbot -y
 ```
 
 
